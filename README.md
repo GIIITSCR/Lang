@@ -16,3 +16,7 @@ Designed for IT administrators and power users who need to streamline multilingu
 - Windows 10 / Windows 11 (build 19041 or later)
 - PowerShell 5.1 or PowerShell 7
 - Administrator privileges (required for modifying system locale and language overrides)
+
+###Using
+##Unblock-File .\Lang.ps1
+##.\Lang.ps1
